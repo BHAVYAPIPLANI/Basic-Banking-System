@@ -1,5 +1,5 @@
 # Basic-Banking-System
-Thiswebsite depicts the basic banking system with some features like making transactions, sending amount from one user to other
+This website depicts the basic banking system with some features like making transactions, sending amount from one user to other
 Similarly while sending the money we can see the changes in the bank account of bothreciever and the sender.
 
 # Demo:
